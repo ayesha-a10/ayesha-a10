@@ -14,14 +14,16 @@
 - 🧩 Love solving puzzles!
 
  ## 🛠 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">  
+  <img src="https://img.shields.io/badge/Python-%23A68A64?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/R-%238D86C9?style=for-the-badge&logo=r&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/SQL-%238A817C?style=for-the-badge&logo=database&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/PostgreSQL-%236E7582?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/RStudio-%237D7C7C?style=for-the-badge&logo=rstudio&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Jupyter-%23B4A5A5?style=for-the-badge&logo=jupyter&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/LaTeX-%236D6875?style=for-the-badge&logo=latex&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/GitHub-%234A403A?style=for-the-badge&logo=github&logoColor=white"/>  
+</p>
 
 
 <!---
