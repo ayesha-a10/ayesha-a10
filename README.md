@@ -19,9 +19,7 @@
 <p align="center">  
   <img src="https://img.shields.io/badge/Python-%23A68A64?style=for-the-badge&logo=python&logoColor=white"/>  
   <img src="https://img.shields.io/badge/R-%238D86C9?style=for-the-badge&logo=r&logoColor=white"/>   
-  <img src="https://img.shields.io/badge/SQL-%236E7582?style=for-the-badge&logo=postgresql&logoColor=white"/>    
-  <img src="https://img.shields.io/badge/GitHub-%234A403A?style=for-the-badge&logo=github&logoColor=white"/>  
-</p>  
+  <img src="https://img.shields.io/badge/SQL-%236E7582?style=for-the-badge&logo=postgresql&logoColor=white"/>   
 
 #### 📊 Data Analysis & Visualization  
 <p align="center">  
