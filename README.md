@@ -1,0 +1,49 @@
+# Hi there! 👋 I'm Ayesha Nusrat  
+
+🚀 **Data Scientist | Problem Solver**  
+
+🔬 Passionate about **AI, data science, and predictive modeling.**  
+💡 Always exploring **new algorithms, datasets, and ML techniques.** 
+
+## 🔬 About Me:
+- 🎓 Pursuing **Master's Degree in Data Science** at **Aligarh Muslim University**  
+- 💻 Skilled in **Python, R, and SQL**  
+- 📈 Interested in **Data Science, AI, and Deep Learning**    
+- 🧩 Love solving puzzles!
+
+ ## 🛠 Tech Stack:
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)
+
+### **Machine Learning & AI**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### **Data Analysis & Processing**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Dplyr](https://img.shields.io/badge/Dplyr-1D65B9?style=for-the-badge&logo=r&logoColor=white)
+
+### **Data Visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-1D65B9?style=for-the-badge&logo=r&logoColor=white)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Development & Tools**
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### **Version Control & Others**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+<!---
+a1s8/a1s8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
