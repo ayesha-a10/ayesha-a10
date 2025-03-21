@@ -13,17 +13,34 @@
 - 📈 Interested in **Data Science, AI, and Deep Learning**    
 - 🧩 Love solving puzzles!
 
- ## 🛠 Tech Stack:
+ ## 🛠 Tech Stack:  
+
+#### 🖥 Programming & Databases  
 <p align="center">  
   <img src="https://img.shields.io/badge/Python-%23A68A64?style=for-the-badge&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/R-%238D86C9?style=for-the-badge&logo=r&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/SQL-%238A817C?style=for-the-badge&logo=database&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/PostgreSQL-%236E7582?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/RStudio-%237D7C7C?style=for-the-badge&logo=rstudio&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Jupyter-%23B4A5A5?style=for-the-badge&logo=jupyter&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/LaTeX-%236D6875?style=for-the-badge&logo=latex&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/R-%238D86C9?style=for-the-badge&logo=r&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/SQL-%236E7582?style=for-the-badge&logo=postgresql&logoColor=white"/>    
   <img src="https://img.shields.io/badge/GitHub-%234A403A?style=for-the-badge&logo=github&logoColor=white"/>  
-</p>
+</p>  
+
+#### 📊 Data Analysis & Visualization  
+<p align="center">  
+  <img src="https://img.shields.io/badge/Pandas-%239C8D86?style=for-the-badge&logo=pandas&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/NumPy-%23B0A4A4?style=for-the-badge&logo=numpy&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Matplotlib-%23B4A5A5?style=for-the-badge&logo=plotly&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Seaborn-%238B7D9D?style=for-the-badge&logo=plotly&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Tableau-%237A6F85?style=for-the-badge&logo=tableau&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Dplyr-%239389BA?style=for-the-badge&logo=r&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/ggplot2-%238878A5?style=for-the-badge&logo=r&logoColor=white"/>  
+</p>  
+
+#### 📜 Documentation & Writing  
+<p align="center">  
+  <img src="https://img.shields.io/badge/Jupyter-%23B4A5A5?style=for-the-badge&logo=jupyter&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/RStudio-%237D7C7C?style=for-the-badge&logo=rstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-%236D6875?style=for-the-badge&logo=latex&logoColor=white"/>  
+</p>  
+
 
 
 <!---
