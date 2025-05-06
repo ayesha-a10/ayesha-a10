@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Ayesha Nusrat  
 
 🚀 **Data Science Enthusiast | Problem Solver**  
-
 🔬 Passionate about **AI, data science, and predictive modeling.**  
 💡 Always exploring **new algorithms, datasets, and ML techniques.** 
 
