@@ -1,4 +1,4 @@
-# Hi there! I'm Ayesha Nusrat  
+# Hi there! 👋 I'm Ayesha Nusrat  
 
 **Data Scientist**  
 
