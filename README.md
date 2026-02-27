@@ -28,8 +28,6 @@
   <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="40" title="Time Series"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" title="LaTeX"/>
   <img src="https://img.icons8.com/color/48/google-colab.png" width="40" title="Google Colab"/>
-  <img src="https://img.icons8.com/color/48/statistics.png" width="40" title="Statistics"/>
-  <img src="https://img.icons8.com/color/48/math.png" width="40" title="Matrix Algebra"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" title="Kaggle"/>
 </p>
 
