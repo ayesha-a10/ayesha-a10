@@ -18,7 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="35" height="35"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35"/>
   <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40" height="40" title="AI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/chatgpt.png" width="40"/>
@@ -26,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" title="RStudio"/>
   <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="40" title="Time Series"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" title="LaTeX"/>
   <img src="https://img.icons8.com/color/48/google-colab.png" width="40" title="Google Colab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" title="Kaggle"/>
 </p>
