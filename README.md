@@ -25,7 +25,7 @@ A psychology-inspired conversational AI system that adapts responses using mood 
 
 ## Skills & Tools
 
-`AI` • `ML` • `DL` • `Neural Networks` • `NLP` • `LLMs` • `Prompt Engineering` • `LangChain` • `RAG` • `Python` • `R` • `SQL` • `Git` • `GitHub` 
+`Data Analytics` • `Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Neural Networks` • `Natural Language Processing (NLP)` • `Large Language Models (LLMs)` • `Prompt Engineering` • `LangChain` • `RAG` • `Python` • `R-Programming` • `SQL` • `Git` • `GitHub` 
 
 <!---
 a1s8/a1s8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
