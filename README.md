@@ -3,7 +3,7 @@
 **Data Scientist**  
 
 - Passionate about building AI systems that understand not only what people say, but also how they think, feel, and interact.
-- Currently exploring Large Language Models (LLMs), NLP, Behavioral Data Science, and Human-AI Interaction.
+- Currently exploring NLP, Behavioral Data Science, and Human-AI Interaction.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Passionate+about+Data+%26+AI!)](https://git.io/typing-svg)
 
@@ -25,7 +25,7 @@ A psychology-inspired conversational AI system that adapts responses using mood 
 
 ## Skills & Tools
 
-`Data Analytics` • `Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Neural Networks` • `Natural Language Processing (NLP)` • `Large Language Models (LLMs)` • `Prompt Engineering` • `LangChain` • `RAG` • `Python` • `R-Programming` • `SQL` • `Git` • `GitHub` 
+`Data Analytics` • `Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Neural Networks` • `NLP` • `LLMs` • `Prompting` • `LangChain` • `RAG` • `Python` • `R` • `SQL` • `Git` • `GitHub` 
 
 <!---
 a1s8/a1s8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
